@@ -1,4 +1,7 @@
-[{
+{
+	"userId": 5,
+	"userName": "Joaãozinho",
+	"fazendas": [{
 		"id": 1,
 		"name": "fazenda1",
 		"areas": [{
@@ -91,5 +94,5 @@
 				]
 			}
 		]
-	}
-]
+	}]
+}
