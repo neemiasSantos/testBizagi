@@ -1,101 +1,95 @@
 [{
-	"id": 1,
-	"name": "fazenda1",
-	"areas": [
-		{
-			"id": 11,
-			"name": "fazenda1 area1",
-			"tamanho": 100,
-			"talhoes": [
-				{
-					"id": 111,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				},
-				{
-					"id": 112,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				},
-				{
-					"id": 113,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				}
-			]
-		},
-		{
-			"id": 12,
-			"name": "fazenda1 area2",
-			"tamanho": 150,
-			"talhoes": [
-				{
-					"id": 121,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				},
-				{
-					"id": 122,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				},
-				{
-					"id": 123,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				}
-			]
-		},
-	]
-},
-{
-	"id": 2,
-	"name": "fazenda1",
-	"areas": [
-		{
-			"id": 21,
-			"name": "fazenda1 area1",
-			"tamanho": 200,
-			"talhoes": [
-				{
-					"id": 211,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				},
-				{
-					"id": 212,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				},
-				{
-					"id": 213,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				}
-			]
-		},
-		{
-			"id": 22,
-			"name": "fazenda1 area2",
-			"tamanho": 300,
-			"talhoes": [
-				{
-					"id": 221,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				},
-				{
-					"id": 222,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				},
-				{
-					"id": 223,
-					"name": "fazenda1 area1 talhao1",
-					"cultura": "milho"
-				}
-			]
-		},
-	]
-}
+		"id": 1,
+		"name": "fazenda1",
+		"areas": [{
+				"id": 11,
+				"name": "fazenda1 area1",
+				"tamanho": 100,
+				"talhoes": [{
+						"id": 111,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					},
+					{
+						"id": 112,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					},
+					{
+						"id": 113,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					}
+				]
+			},
+			{
+				"id": 12,
+				"name": "fazenda1 area2",
+				"tamanho": 150,
+				"talhoes": [{
+						"id": 121,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					},
+					{
+						"id": 122,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					},
+					{
+						"id": 123,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "fazenda1",
+		"areas": [{
+				"id": 21,
+				"name": "fazenda1 area1",
+				"tamanho": 200,
+				"talhoes": [{
+						"id": 211,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					},
+					{
+						"id": 212,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					},
+					{
+						"id": 213,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					}
+				]
+			},
+			{
+				"id": 22,
+				"name": "fazenda1 area2",
+				"tamanho": 300,
+				"talhoes": [{
+						"id": 221,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					},
+					{
+						"id": 222,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					},
+					{
+						"id": 223,
+						"name": "fazenda1 area1 talhao1",
+						"cultura": "milho"
+					}
+				]
+			}
+		]
+	}
 ]
